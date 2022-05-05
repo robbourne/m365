@@ -27,4 +27,6 @@ Microsoft PowerShell script to enable Azure Active Directory users with:
 ```powershell
 $upn = $uname + "@<domain name>"   >>>>    $upn = $uname + "@acme.com"
 ```
-4. Connect to Teams tenant and run script
+4. Update $voiceroutingpolicy with your configured Voice Routing Policy name
+5. Update $emergencypolicy with your configured Emergency Call Routing Policy name
+6. Connect to Teams tenant and run script
