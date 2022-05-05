@@ -15,6 +15,8 @@ Microsoft PowerShell script to enable Azure Active Directory users with:
 - Assign E5 or E3 with 'Phone System' add-on license
 - Complete SBC, Emergency Call Routing and Voice Routing Policy configuration
 - Teams Administrator or higher level access to run scripts
+- Download ps1 and users.csv to a local folder
+- Install latest MS Teams PowerShell Module
 
 ## Instructions
 
